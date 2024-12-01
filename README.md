@@ -53,3 +53,11 @@ src/main/resources: Contains the Spring Boot configuration files like applicatio
 Notes
 The project is set up to use Spring Boot with Maven.
 For any questions or contributions, feel free to open an issue or submit a pull request.
+
+## Additional Information
+    - Added screenshots of the run in the browser and in Postman
+    
+       * ![image](https://github.com/user-attachments/assets/90f55bac-4745-46a0-b2d1-e42e0bffb70e)
+---
+       *![image](https://github.com/user-attachments/assets/d175838c-5aa1-45d5-b077-28a29fb71d5e)
+
